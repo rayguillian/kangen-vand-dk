@@ -1,0 +1,223 @@
+{
+  "greeting": "Hej Verden",
+  "navbar": {
+    "logo": "Kangen Vand DK",
+    "home": "Hjem",
+    "problem": "Problemet",
+    "solutions": "Løsninger",
+    "products": "Produkter",
+    "science": "Videnskab",
+    "testimonials": "Udtalelser",
+    "pricing": "Priser",
+    "faq": "OSS",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "copyright": "© {{year}} Kangen Vand DK. Alle rettigheder forbeholdes.",
+    "privacyPolicy": "Privatlivspolitik",
+    "termsOfService": "Servicevilkår",
+    "facebookAria": "Facebook",
+    "instagramAria": "Instagram",
+    "linkedinAria": "LinkedIn"
+  },
+  "hero": {
+    "headline": "Er Dit Drikkevand Rent Nok? Bekymringer Stiger i Danmark",
+    "subheadline": "Oplev Forskellen Med Kangen Vand® - Din Kilde Til Renere, Sundere Vand",
+    "ctaButton": "Få Rent Vand I Dag"
+  },
+  "problemAwareness": {
+    "title": "Forstå Vandkvalitetsudfordringen i Danmark",
+    "dataVizTitle": "Pesticidtrends i Grundvand",
+    "dataVizPlaceholder": "[Pladsholder for Datavisualisering: Graf der viser stigende pesticidkoncentrationer i dansk grundvand over tid. Data fra VAP (Varslingssystem for udvaskning af Pesticider).]",
+    "dataVizExplanation": "Denne visualisering vil illustrere tendensen for pesticidkoncentrationer fundet i dansk grundvand, baseret på omfattende data. Formålet er at fremhæve den udviklende karakter af bekymringer vedrørende vandkvalitet.",
+    "mapTitle": "Påvirkede Regioner i Danmark",
+    "mapPlaceholder": "[Pladsholder for Interaktivt Kort: Kort der fremhæver regioner i Danmark mest påvirket af grundvandsforurening. Data fra GEUS-rapporter.]",
+    "mapExplanation": "Dette interaktive kort vil udpege de områder i Danmark, hvor grundvandsforurening er mest udbredt, og tilbyder et geografisk perspektiv på problemet.",
+    "researchTitle": "Nøgleforskning & Datakilder",
+    "researchIntro": "Den præsenterede information understøttes af resultater fra flere anerkendte danske og nordiske forskningsinstitutioner og agenturer:",
+    "sourceLabel": "Kilde",
+    "sourceDPLAP": "VAP (Varslingssystem for udvaskning af Pesticider til grundvandet)",
+    "sourceGEUS": "GEUS (De Nationale Geologiske Undersøgelser for Danmark og Grønland)",
+    "sourceUCPH": "Københavns Universitet",
+    "sourceNordicCouncil": "Nordisk Råd",
+    "sourceDEPA": "Miljøstyrelsen"
+  },
+  "educationalContent": {
+    "mainTitle": "Viden om Vand: Forstå Kontaminanter og Løsninger",
+    "contaminants": {
+      "title": "Almindelige Vandforurenende Stoffer i Danmark",
+      "content": "Pesticider: Rester fra landbrugsbrug kan sive ned i grundvandet.\nNitrater: Primært fra gødning, kan være skadelige i høje koncentrationer.\nTungmetaller: Såsom bly eller arsen, kan stamme fra gamle rør eller industriel forurening.\nLægemiddelrester: Spor af medicin kan trænge ind i vandforsyningen."
+    },
+    "healthImplications": {
+      "title": "Sundhedsmæssige Konsekvenser af Forurenet Vand",
+      "content": "Langvarig eksponering for visse vandforurenende stoffer kan være forbundet med forskellige sundhedsmæssige bekymringer. For eksempel kan nitrater påvirke ilttransporten hos spædbørn, og nogle tungmetaller er forbundet med udviklingsproblemer eller organskader. Pesticider og lægemiddelrester er områder under løbende forskning med hensyn til deres potentielle langsigtede sundhedseffekter."
+    },
+    "kangenSolution": {
+      "title": "Hvordan Kangen's Ioniseringsteknologi Hjælper",
+      "content": "Kangen Water® maskiner filtrerer først dit postevand for at reducere almindelige urenheder. Derefter, gennem en proces kaldet elektrolyse, ioniseres vandet, hvilket ændrer dets pH-værdi og Oxidation-Reduktions Potentiale (ORP). Denne proces sigter mod at producere vand, der er renere og potentielt tilbyder antioxidante egenskaber. Selvom det ikke er en kur mod nogen sygdom, er Kangen Water® designet til at tilbyde en højkvalitets drikkevandsmulighed."
+    }
+  },
+  "productShowcase": {
+    "title": "Vores Kangen Vand® Maskiner",
+    "keyBenefits": "Nøglefordele",
+    "k8": {
+      "name": "Kangen K8",
+      "description": "Topmodellen for optimal sundhed og hydrering.",
+      "benefit1": "Perfekt til danske hjem med fokus på velvære.",
+      "benefit2": "Producerer flere typer vand tilpasset en moderne livsstil.",
+      "imagePlaceholder": "[Pladsholder for Kangen K8 Billede]"
+    },
+    "sd501": {
+      "name": "Kangen SD501 Platinum",
+      "description": "Den populære og kraftfulde model for hele familien.",
+      "benefit1": "Pålidelig ydeevne til daglige hydreringsbehov.",
+      "benefit2": "Understøtter en sund livsstil med forskellige vandtyper.",
+      "imagePlaceholder": "[Pladsholder for Kangen SD501 Billede]"
+    },
+    "levelukR": {
+      "name": "LeveLuk R",
+      "description": "Introduktionsmodellen, perfekt til singler eller par.",
+      "benefit1": "Kompakt og overkommelig adgang til Kangen Vand®.",
+      "benefit2": "Ideel til mindre husstande eller rejsebrug.",
+      "imagePlaceholder": "[Pladsholder for LeveLuk R Billede]"
+    },
+    "comparisonTablePlaceholder": "[Pladsholder for Sammenligningstabel: Kangen Modeller vs. Postevand & Andre Filtreringsmetoder]",
+    "videoDemosPlaceholder": "[Pladsholder for Videodemonstrationer med Danske Undertekster: Se Kangen Maskiner i Aktion]"
+  },
+  "scientificBacking": {
+    "title": "Videnskabelig Baggrund for Rent Vand",
+    "researchFindings": {
+      "title": "Nøglefund fra Dansk & Skandinavisk Vandkvalitetsforskning",
+      "finding1": {
+        "title": "VAP (Varslingssystem for udvaskning af Pesticider til grundvandet)",
+        "description": "Viser vedvarende udfordringer med pesticidrester i grundvandet."
+      },
+      "finding2": {
+        "title": "Studier fra Københavns Universitet",
+        "description": "Fremhæver vigtigheden af avanceret vandbehandling for at sikre drikkevandskvalitet."
+      },
+      "finding3": {
+        "title": "GEUS Rapporter",
+        "description": "Dokumenterer udbredelsen af specifikke kontaminanter i danske vandressourcer."
+      }
+    },
+    "expertTestimonials": {
+      "title": "Udtalelser fra Danske Miljøforskere",
+      "placeholder": "[Pladsholder for Ekspertudtalelser: Citater fra danske miljøforskere eller vandkvalitetseksperter, der diskuterer vigtigheden af vandrenhed og avancerede filtrerings-/ioniseringsteknologier. Hver udtalelse vil inkludere navn, titel og tilknytning.]"
+    },
+    "waterTestingResults": {
+      "title": "Før & Efter Vandtestresultater",
+      "placeholder": "[Pladsholder for Før & Efter Vandtestresultater: Visuelle eller tabeldata, der viser forbedringer i vandkvalitetsparametre (f.eks. reduktion af kontaminanter, pH/ORP-ændringer) efter brug af Kangen-vandmaskiner. Data fra lokale tests hvis muligt.]"
+    }
+  },
+  "testimonials": {
+    "title": "Hvad Vores Danske Kunder Siger",
+    "successStories": {
+      "title": "Succeshistorier fra Danmark",
+      "placeholder": {
+        "quote": "[Pladsholder for et kort udtalelsescitat fra en dansk Kangen vandbruger.]",
+        "customerName": "[Kundenavn, By (Valgfrit)]",
+        "note": "[Pladsholder for Kundesucceshistorier: 2-3 korte udtalelser fra danske Kangen vandbrugere. Hver vil inkludere et citat, kundenavn og eventuelt deres by. Overvej et layout, der senere kan rumme et lille kundefoto.]"
+      }
+    },
+    "beforeAfter": {
+      "title": "Før & Efter Oplevelser",
+      "placeholder": "[Pladsholder for Før/Efter Oplevelser: Korte fortællinger eller punktopstillinger, der beskriver ændringer, kunder har bemærket (f.eks. vandsmag, generel velvære). Anonymiseret eller med tilladelse.]"
+    },
+    "businessEndorsements": {
+      "title": "Anerkendelser fra Lokale Virksomheder",
+      "placeholder": {
+        "businessName": "[Virksomhedsnavn]",
+        "businessType": "[Type af Virksomhed, f.eks. Café, Wellnesscenter]",
+        "quote": "[Pladsholder for en kort anerkendelse fra en lokal virksomhed.]",
+        "note": "[Pladsholder for Lokale Virksomhedsanerkendelser: Citater eller logoer fra danske virksomheder (f.eks. caféer, wellnesscentre), der bruger og anbefaler Kangen vand. Inkluder virksomhedsnavn og type.]"
+      }
+    }
+  },
+  "pricingPackages": {
+    "sectionTitle": "Priser & Pakker Tilpasset Danmark",
+    "learnMore": "Lær Mere",
+    "pricingStructure": {
+      "title": "Vores Prisstruktur (DKK)",
+      "tier1": {
+        "name": "K8 Grundpakke",
+        "price": "XX.XXX DKK",
+        "description": "Nøglefunktioner for K8 model."
+      },
+      "tier2": {
+        "name": "SD501 Familiepakke",
+        "price": "YY.YYY DKK",
+        "description": "Nøglefunktioner for SD501 model."
+      },
+      "tier3": {
+        "name": "Anespa DX Spa Enhed",
+        "price": "ZZ.ZZZ DKK",
+        "description": "Nøglefunktioner for Anespa DX model."
+      },
+      "contentPlaceholder": "[Pladsholder for Prisniveauer: Vis 2-3 prisniveauer eller pakker for forskellige Kangen modeller eller bundter. Priser skal tydeligt markeres i DKK. Hvert niveau skal liste nøglefunktioner eller inkluderede elementer. Eksempel: K8 Grundpakke - XX.XXX DKK, SD501 Familiepakke - YY.YYY DKK.]"
+    },
+    "specialOffers": {
+      "title": "Særlige Tilbud Baseret på Vandkvalitet",
+      "contentPlaceholder": "[Pladsholder for Særlige Tilbud: Information om potentielle rabatter eller pakketilbud for specifikke regioner i Danmark baseret på lokale vandkvalitetsrapporter. Eksempel: 'Bor du i [Region X]? Få en særlig rabat på din første maskine!']"
+    },
+    "financingOptions": {
+      "title": "Fleksible Finansieringsmuligheder",
+      "contentPlaceholder": "[Pladsholder for Finansieringsmuligheder: Information om tilgængelige betalingsplaner eller finansieringspartnere for at gøre Kangen maskiner mere tilgængelige. Eksempel: 'Spørg om vores rentefrie finansieringsplaner.']"
+    }
+  },
+  "faq": {
+    "title": "Ofte Stillede Spørgsmål",
+    "consumerConcerns": {
+      "q1": {
+        "question": "Er Kangen Vand® virkelig anderledes end almindeligt postevand?",
+        "answer": "[Pladsholder Svar: Forklar kort de vigtigste forskelle med fokus på ionisering, pH-niveauer og filtreringsfordele relevante for danske vandbekymringer.]"
+      },
+      "q2": {
+        "question": "Hvad koster det at vedligeholde en Kangen-maskine?",
+        "answer": "[Pladsholder Svar: Giv en generel idé om vedligeholdelsesomkostninger, filterudskiftningsfrekvens og rengøringsprocedurer.]"
+      }
+    },
+    "installation": {
+      "q1": {
+        "question": "Er Kangen-maskiner svære at installere i danske køkkener?",
+        "answer": "[Pladsholder Svar: Adresser typiske danske VVS-standarder og nem installation. Nævn om professionel installation anbefales eller er tilgængelig.]"
+      }
+    },
+    "maintenance": {
+      "q1": {
+        "question": "Hvor ofte skal jeg rense min Kangen-maskine?",
+        "answer": "[Pladsholder Svar: Generelle rengøringsretningslinjer og frekvens.]"
+      }
+    },
+    "contactSupport": {
+      "title": "Kontakt & Support i Danmark",
+      "danishSupport": {
+        "title": "Dansk Kundesupport",
+        "placeholder": "[Pladsholder for Dansk Kundesupport: Angiv kontaktoplysninger såsom et dansk telefonnummer, e-mailadresse og åbningstider for kundesupport. Eksempel: Tlf: +45 XX XX XX XX, Email: support@kangen-vand.dk, Åbningstider: Man-Fre 09:00-17:00.]",
+        "emailExample": "Email: support@kangen-vand.dk",
+        "phoneExample": "Tlf: +45 XX XX XX XX",
+        "hoursExample": "Åbningstider: Man-Fre 09:00-17:00"
+      },
+      "dealerMap": {
+        "title": "Find Din Lokale Forhandler",
+        "placeholder": "[Pladsholder for Lokalt Forhandlerkort: Et interaktivt kort vil blive integreret her, der viser placeringer af Kangen vandforhandlere i hele Danmark. Brugere vil kunne søge efter by eller postnummer.]"
+      },
+      "waterTest": {
+        "title": "Book en Gratis Vandtest Hjemme Hos Dig",
+        "placeholder": "[Pladsholder for Vandtest i Hjemmet: Information og en call-to-action knap eller lille formular til at anmode om en gratis vandkvalitetstest i hjemmet af en lokal Kangen repræsentant. Eksempel: 'Interesseret i at se kvaliteten af dit eget vand? Klik her for at booke en uforpligtende test.']",
+        "buttonText": "Book Gratis Vandtest",
+        "form": {
+          "name": "Navn",
+          "email": "Email",
+          "phone": "Telefon",
+          "message": "Besked (valgfri)",
+          "submitSuccess": "Tak! Din anmodning om vandtest er sendt. Vi kontakter dig snarest."
+        }
+      },
+      "speakToSpecialist": {
+        "buttonText": "Tal med en Dansk Vand Specialist",
+        "actionPlaceholder": "Ring til os på +45 XX XX XX XX for at tale med en specialist."
+      }
+    }
+  }
+}

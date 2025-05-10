@@ -1,0 +1,223 @@
+{
+  "greeting": "Hello World",
+  "navbar": {
+    "logo": "Kangen Vand DK",
+    "home": "Home",
+    "problem": "Problem",
+    "solutions": "Solutions",
+    "products": "Products",
+    "science": "Science",
+    "testimonials": "Testimonials",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "footer": {
+    "copyright": "© {{year}} Kangen Vand DK. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "facebookAria": "Facebook",
+    "instagramAria": "Instagram",
+    "linkedinAria": "LinkedIn"
+  },
+  "hero": {
+    "headline": "Is Your Drinking Water Clean Enough? Concerns Are Rising in Denmark",
+    "subheadline": "Discover the Difference With Kangen Water® - Your Source for Cleaner, Healthier Water",
+    "ctaButton": "Get Clean Water Today"
+  },
+  "problemAwareness": {
+    "title": "Understanding Denmark's Water Quality Challenge",
+    "dataVizTitle": "Pesticide Trends in Groundwater",
+    "dataVizPlaceholder": "[Placeholder for Data Visualization: Graph showing increasing pesticide concentrations in Danish groundwater over time. Data from Danish Pesticide Leaching Assessment Programme findings.]",
+    "dataVizExplanation": "This visualization will illustrate the trend of pesticide concentrations found in Danish groundwater, based on comprehensive data. It aims to highlight the evolving nature of water quality concerns.",
+    "mapTitle": "Affected Regions in Denmark",
+    "mapPlaceholder": "[Placeholder for Interactive Map: Map highlighting regions in Denmark most affected by groundwater contamination. Data from GEUS reports.]",
+    "mapExplanation": "This interactive map will pinpoint the areas across Denmark where groundwater contamination is most prevalent, offering a geographical perspective on the issue.",
+    "researchTitle": "Key Research & Data Sources",
+    "researchIntro": "The information presented is supported by findings from several reputable Danish and Nordic research institutions and agencies:",
+    "sourceLabel": "Source",
+    "sourceDPLAP": "Danish Pesticide Leaching Assessment Programme",
+    "sourceGEUS": "GEUS (Geological Survey of Denmark and Greenland)",
+    "sourceUCPH": "University of Copenhagen",
+    "sourceNordicCouncil": "Nordic Council",
+    "sourceDEPA": "Danish Environmental Protection Agency"
+  },
+  "educationalContent": {
+    "mainTitle": "Water Wisdom: Understanding Contaminants and Solutions",
+    "contaminants": {
+      "title": "Common Water Contaminants in Denmark",
+      "content": "Pesticides: Residues from agricultural use can seep into groundwater.\nNitrates: Primarily from fertilizers, can be harmful in high concentrations.\nHeavy Metals: Such as lead or arsenic, can originate from old pipes or industrial pollution.\nPharmaceutical Residues: Traces of medicines can enter the water supply."
+    },
+    "healthImplications": {
+      "title": "Health Implications of Contaminated Water",
+      "content": "Long-term exposure to certain water contaminants may be associated with various health concerns. For example, nitrates can affect oxygen transport in infants, and some heavy metals are linked to developmental issues or organ damage. Pesticides and pharmaceutical residues are areas of ongoing research regarding their potential long-term health effects."
+    },
+    "kangenSolution": {
+      "title": "How Kangen's Ionization Technology Helps",
+      "content": "Kangen Water® machines first filter your tap water to reduce common impurities. Then, through a process called electrolysis, the water is ionized, altering its pH and Oxidation-Reduction Potential (ORP). This process aims to produce water that is cleaner and potentially offers antioxidant properties. While not a cure for any disease, Kangen Water® is designed to provide a high-quality drinking water option."
+    }
+  },
+  "productShowcase": {
+    "title": "Our Kangen Water® Machines",
+    "keyBenefits": "Key Benefits",
+    "k8": {
+      "name": "Kangen K8",
+      "description": "The flagship model for optimal health and hydration.",
+      "benefit1": "Perfect for Danish homes focused on well-being.",
+      "benefit2": "Produces multiple types of water adapted to a modern lifestyle.",
+      "imagePlaceholder": "[Placeholder for Kangen K8 Image]"
+    },
+    "sd501": {
+      "name": "Kangen SD501 Platinum",
+      "description": "The popular and powerful model for the whole family.",
+      "benefit1": "Reliable performance for daily hydration needs.",
+      "benefit2": "Supports a healthy lifestyle with various water types.",
+      "imagePlaceholder": "[Placeholder for Kangen SD501 Image]"
+    },
+    "levelukR": {
+      "name": "LeveLuk R",
+      "description": "The introductory model, perfect for singles or couples.",
+      "benefit1": "Compact and affordable entry into Kangen Water®.",
+      "benefit2": "Ideal for smaller households or travel.",
+      "imagePlaceholder": "[Placeholder for LeveLuk R Image]"
+    },
+    "comparisonTablePlaceholder": "[Placeholder for Comparison Table: Kangen Models vs. Tap Water & Other Filtration Methods]",
+    "videoDemosPlaceholder": "[Placeholder for Video Demonstrations with Danish Subtitles: See Kangen Machines in Action]"
+  },
+  "scientificBacking": {
+    "title": "Scientific Backing for Clean Water",
+    "researchFindings": {
+      "title": "Key Findings from Danish & Scandinavian Water Quality Research",
+      "finding1": {
+        "title": "Danish Pesticide Leaching Assessment Programme",
+        "description": "Shows persistent challenges with pesticide residues in groundwater."
+      },
+      "finding2": {
+        "title": "University of Copenhagen Studies",
+        "description": "Highlight the importance of advanced water treatment to ensure drinking water quality."
+      },
+      "finding3": {
+        "title": "GEUS Reports",
+        "description": "Document the prevalence of specific contaminants in Danish water resources."
+      }
+    },
+    "expertTestimonials": {
+      "title": "Testimonials from Danish Environmental Scientists",
+      "placeholder": "[Placeholder for Expert Testimonials: Quotes from Danish environmental scientists or water quality experts discussing the importance of water purity and advanced filtration/ionization technologies. Each testimonial will include name, title, and affiliation.]"
+    },
+    "waterTestingResults": {
+      "title": "Before & After Water Testing Results",
+      "placeholder": "[Placeholder for Before/After Water Testing Results: Visual or tabular data showing improvements in water quality parameters (e.g., contaminant reduction, pH/ORP changes) after using Kangen water machines. Data from local tests if possible.]"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Danish Customers Say",
+    "successStories": {
+      "title": "Success Stories from Denmark",
+      "placeholder": {
+        "quote": "[Placeholder for a short testimonial quote from a Danish Kangen water user.]",
+        "customerName": "[Customer Name, City (Optional)]",
+        "note": "[Placeholder for Customer Success Stories: 2-3 short testimonials from Danish Kangen water users. Each will include a quote, customer name, and optionally their city. Consider a layout that can accommodate a small customer photo later.]"
+      }
+    },
+    "beforeAfter": {
+      "title": "Before & After Experiences",
+      "placeholder": "[Placeholder for Before/After Experiences: Brief narratives or bullet points detailing changes customers noticed (e.g., taste of water, general well-being). Anonymized or with permission.]"
+    },
+    "businessEndorsements": {
+      "title": "Endorsements from Local Businesses",
+      "placeholder": {
+        "businessName": "[Business Name]",
+        "businessType": "[Type of Business, e.g., Cafe, Wellness Center]",
+        "quote": "[Placeholder for a brief endorsement from a local business.]",
+        "note": "[Placeholder for Local Business Endorsements: Quotes or logos from Danish businesses (e.g., cafes, wellness centers) that use and recommend Kangen water. Include business name and type.]"
+      }
+    }
+  },
+  "pricingPackages": {
+    "sectionTitle": "Pricing & Packages Tailored for Denmark",
+    "learnMore": "Learn More",
+    "pricingStructure": {
+      "title": "Our Pricing Structure (DKK)",
+      "tier1": {
+        "name": "K8 Basic Package",
+        "price": "XX.XXX DKK",
+        "description": "Key features for K8 model."
+      },
+      "tier2": {
+        "name": "SD501 Family Package",
+        "price": "YY.YYY DKK",
+        "description": "Key features for SD501 model."
+      },
+      "tier3": {
+        "name": "Anespa DX Spa Unit",
+        "price": "ZZ.ZZZ DKK",
+        "description": "Key features for Anespa DX model."
+      },
+      "contentPlaceholder": "[Placeholder for Pricing Tiers: Display 2-3 pricing tiers or packages for different Kangen models or bundles. Prices should be clearly marked in DKK. Each tier should list key features or included items. Example: K8 Grundpakke - XX.XXX DKK, SD501 Familiepakke - YY.YYY DKK.]"
+    },
+    "specialOffers": {
+      "title": "Special Offers Based on Water Quality",
+      "contentPlaceholder": "[Placeholder for Special Offers: Information on potential discounts or bundled offers for specific regions in Denmark based on local water quality reports. Example: 'Living in [Region X]? Get a special discount on your first machine!']"
+    },
+    "financingOptions": {
+      "title": "Flexible Financing Options",
+      "contentPlaceholder": "[Placeholder for Financing Options: Information on available payment plans or financing partners to make Kangen machines more accessible. Example: 'Ask about our interest-free financing plans.']"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "consumerConcerns": {
+      "q1": {
+        "question": "Is Kangen Water® really different from regular tap water?",
+        "answer": "[Placeholder Answer: Briefly explain the key differences focusing on ionization, pH levels, and filtration benefits relevant to Danish water concerns.]"
+      },
+      "q2": {
+        "question": "What does it cost to maintain a Kangen machine?",
+        "answer": "[Placeholder Answer: Provide a general idea of maintenance costs, filter replacement frequency, and cleaning procedures.]"
+      }
+    },
+    "installation": {
+      "q1": {
+        "question": "Are Kangen machines difficult to install in Danish kitchens?",
+        "answer": "[Placeholder Answer: Address typical Danish plumbing standards and ease of installation. Mention if professional installation is recommended or available.]"
+      }
+    },
+    "maintenance": {
+      "q1": {
+        "question": "How often do I need to clean my Kangen machine?",
+        "answer": "[Placeholder Answer: General cleaning guidelines and frequency.]"
+      }
+    },
+    "contactSupport": {
+      "title": "Contact & Support in Denmark",
+      "danishSupport": {
+        "title": "Danish Customer Support",
+        "placeholder": "[Placeholder for Danish Customer Support: Provide contact details such as a Danish phone number, email address, and operating hours for customer support. Example: Tlf: +45 XX XX XX XX, Email: support@kangen-vand.dk, Åbningstider: Man-Fre 09:00-17:00.]",
+        "emailExample": "Email: support@kangen-vand.dk",
+        "phoneExample": "Tlf: +45 XX XX XX XX",
+        "hoursExample": "Opening Hours: Mon-Fri 09:00-17:00"
+      },
+      "dealerMap": {
+        "title": "Find Your Local Dealer",
+        "placeholder": "[Placeholder for Local Dealer Map: An interactive map will be embedded here showing locations of Kangen water dealers across Denmark. Users will be able to search by city or postal code.]"
+      },
+      "waterTest": {
+        "title": "Schedule a Free In-Home Water Test",
+        "placeholder": "[Placeholder for In-Home Water Testing: Information and a call-to-action button or small form to request a free in-home water quality test by a local Kangen representative. Example: 'Interested in seeing the quality of your own water? Click here to book a non-binding test.']",
+        "buttonText": "Book Free Water Test",
+        "form": {
+          "name": "Name",
+          "email": "Email",
+          "phone": "Phone",
+          "message": "Message (optional)",
+          "submitSuccess": "Thank you! Your water test request has been submitted. We will contact you shortly."
+        }
+      },
+      "speakToSpecialist": {
+        "buttonText": "Speak with a Danish Water Specialist",
+        "actionPlaceholder": "Call us at +45 XX XX XX XX to speak with a specialist."
+      }
+    }
+  }
+}
